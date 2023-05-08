@@ -4,5 +4,4 @@
 
 Installation Packages:
  ## Linux - AppImage
- 
- 
+ [sendtu.zip](https://github.com/danchengash/send-tu-files/files/11421717/sendtu.zip)
