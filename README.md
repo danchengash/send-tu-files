@@ -5,7 +5,8 @@
 Installation Packages:
  ## Linux - AppImage
  [sendtu.zip](https://github.com/danchengash/send-tu-files/files/11421717/sendtu.zip)
-\n INSTRUCTIONS; 
+ 
+ INSTRUCTIONS; 
 - Download the zip file 
 - Extract the contents 
 - Open the terminal on the file folder(or change directory to inside sendtu folder)
@@ -14,5 +15,5 @@ Installation Packages:
 - Run it
  ``./sendtu.AppImage``
 
-# Android version available at 
+## Android version on PlayStore
 [Sendtu Android App](https://play.google.com/store/apps/details?id=com.salticon.sendtu)
