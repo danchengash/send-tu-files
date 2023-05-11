@@ -4,7 +4,8 @@
 
 Installation Packages:
 ## Windows <a href= "https://github.com/danchengash/send-tu-files"> <img src="https://cdn2.iconfinder.com/data/icons/Qetto___icons_by_ampeross-d4njobq/256/windows.png" width="130" height="130"> </a>
-  ### 1.[sendtu.exe](https://github.com/danchengash/send-tu-files/raw/main/Sendtu.exe.zip)
+
+  ### 1.[Sendtu.exe.zip](https://github.com/danchengash/send-tu-files/files/11452003/Sendtu.exe.zip)
   ### 2.[sendtu msix](https://github.com/danchengash/send-tu-files/raw/main/sendtu.msix)
    <br><br>
  ## Linux <a href= "https://github.com/danchengash/send-tu-files"> <img src="http://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="180" height="160"></a>
