@@ -4,7 +4,8 @@
 
 Installation Packages:
 ## Windows
-
+    ### 1.[sendtu.exe](https://github.com/danchengash/send-tu-files/blob/main/Sendtu.exe.zip)
+    ### 2.[sendtu msix](https://github.com/danchengash/send-tu-files/blob/main/sendtu.msix)
 
  ## Linux 
   ###  option 1. AppImage
