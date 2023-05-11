@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/45265245/236840796-e8d107f8-96fd-498b-a775-ac782d100aa1.png" width="180" height="180">
 
 Installation Packages:
-## Windows
+## Windows <a href= "https://github.com/danchengash/send-tu-files"> <img src="https://cdn2.iconfinder.com/data/icons/Qetto___icons_by_ampeross-d4njobq/256/windows.png" width="130" height="130"> </a>
   ### 1.[sendtu.exe](https://github.com/danchengash/send-tu-files/raw/main/Sendtu.exe.zip)
   ### 2.[sendtu msix](https://github.com/danchengash/send-tu-files/raw/main/sendtu.msix)
-   
- ## Linux 
+   <br><br>
+ ## Linux <a href= "https://github.com/danchengash/send-tu-files"> <img src="http://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="180" height="160"></a>
   ###  option 1. AppImage
  ## 1.[sendtu.zip](https://github.com/danchengash/send-tu-files/files/11421717/sendtu.zip)
  
@@ -38,5 +38,5 @@ INSTRUCTIONS;
  ``./send_tu``
  
 
-## Android version on PlayStore
+## Android version on PlayStore <a href= "https://play.google.com/store/apps/details?id=com.salticon.sendtu"><img src="https://freepngimg.com/download/android/67006-app-play-google-android-store-free-clipart-hd.png" width="180" height="80"> </a>
 ### [Sendtu Android App](https://play.google.com/store/apps/details?id=com.salticon.sendtu)
