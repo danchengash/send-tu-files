@@ -4,9 +4,9 @@
 
 Installation Packages:
 ## Windows
-    ### 1.[sendtu.exe](https://github.com/danchengash/send-tu-files/blob/main/Sendtu.exe.zip)
-    ### 2.[sendtu msix](https://github.com/danchengash/send-tu-files/blob/main/sendtu.msix)
-
+  ### 1.[sendtu.exe](https://github.com/danchengash/send-tu-files/raw/main/Sendtu.exe.zip)
+  ### 2.[sendtu msix](https://github.com/danchengash/send-tu-files/raw/main/sendtu.msix)
+   
  ## Linux 
   ###  option 1. AppImage
  ## 1.[sendtu.zip](https://github.com/danchengash/send-tu-files/files/11421717/sendtu.zip)
